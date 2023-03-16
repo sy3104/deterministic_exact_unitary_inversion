@@ -33,7 +33,7 @@ The script [run_optimal_untiary_inversion.m](https://github.com/sy3104/determini
 - [deterministic_parallel_unitary_inversion.m](https://github.com/sy3104/deterministic_exact_unitary_inversion/blob/main/sdp/deterministic_parallel_unitary_inversion.m): Code to obtain the maximal fidelity of transforming parallel n calls of any d-dimensional unitary operations into its inverse map.
 - [deterministic_sequential_unitary_inversion.m](https://github.com/sy3104/deterministic_exact_unitary_inversion/blob/main/sdp/deterministic_sequential_unitary_inversion.m): Code to obtain the maximal fidelity of transforming sequential n calls of any d-dimensional unitary operations into its inverse map.
 
-These Matlab codes utilize group-theoretic calculations done by [Sagemath](https://www.sagemath.org) code [young_diagrams.sage](https://github.com/sy3104/deterministic_exact_unitary_inversion/blob/main/sdp/young_diagrams.sage).
+These Matlab codes utilize group-theoretic calculations done by a [Sagemath](https://www.sagemath.org) code shown in [young_diagrams.sage](https://github.com/sy3104/deterministic_exact_unitary_inversion/blob/main/sdp/young_diagrams.sage).
 
 
 ## License
