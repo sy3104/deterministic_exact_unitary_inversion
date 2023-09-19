@@ -7,7 +7,7 @@ This repository contains
 
 These codes are accompanied to the following paper:
 
-- Satoshi Yoshida, Akihito Soeda, and Mio Murao, Reversing unknown qubit-unitary operation, deterministically and exactly, [Phys. Rev. Lett. 131, 120602 (2023)](https://doi.org/10.1103/PhysRevLett.131.120602), [arXiv:2209.02907](https://arxiv.org/abs/2209.02907).
+- Satoshi Yoshida, Akihito Soeda, and Mio Murao, Reversing unknown qubit-unitary operation, deterministically and exactly, [Phys. Rev. Lett. 131, 120602 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.120602), [arXiv:2209.02907](https://arxiv.org/abs/2209.02907).
 
 ## Requirement
 
