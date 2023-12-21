@@ -26,7 +26,7 @@ It has been tested on MATLAB R2021b and CVX 2.2.
 The main scripts of this repository are
 
 - [qubit_unitary_inversion_circuit.ipynb](https://github.com/sy3104/deterministic_exact_unitary_inversion/blob/main/qubit_unitary_inversion_circuit.ipynb): Qiskit code to generate a quantum circuit of a deterministic exact qubit-unitary inversion for a random qubit-unitary operation and a random input qubit state.  In the quantum circuit shown in this page, the qubits are rearranged from the quantum circuit shown in the paper to reduce the number of SWAP gates.  However, the quantum circuit shown in this page is equivalent to that shown in the paper.
-- [run_optimal_untiary_inversion.m](https://github.com/sy3104/deterministic_exact_unitary_inversion/blob/main/run_optimal_untiary_inversion.m): Code to obtain the maximal maximal fidelity of transforming n calls of any 'd'-dimensional unitary operations into its inverse map.
+- [run_optimal_untiary_inversion.m](https://github.com/sy3104/deterministic_exact_unitary_inversion/blob/main/run_optimal_untiary_inversion.m): Code to obtain the maximal maximal fidelity of transforming n calls of any d-dimensional unitary operations into its inverse map.
 
 The script [run_optimal_untiary_inversion.m](https://github.com/sy3104/deterministic_exact_unitary_inversion/blob/main/run_optimal_untiary_inversion.m) makes use of the functions in the subfolder [QETLAB_used_functions](https://github.com/sy3104/deterministic_exact_unitary_inversion/tree/main/QETLAB_used_functions) and the following Matlab codes in the subfolder [sdp](https://github.com/sy3104/deterministic_exact_unitary_inversion/tree/main/sdp):
 
